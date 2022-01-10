@@ -1,0 +1,163 @@
+
+2021-03-25-17:53:41 userinfoInsertsql£º(1062, "Duplicate entry '2' for key 'PRIMARY'")
+2021-03-25-17:53:41 userinfoInsertsql£º(1062, "Duplicate entry '3' for key 'PRIMARY'")
+2021-03-25-17:53:41 userinfoInsertsql£º(1062, "Duplicate entry '1' for key 'PRIMARY'")
+2021-03-25-17:53:47 inseruserdata: (1062, "Duplicate entry '1' for key 'PRIMARY'")
+2021-03-25-17:53:47 inseruserdata: (1062, "Duplicate entry '2' for key 'PRIMARY'")
+2021-03-25-17:53:48 inseruserdata: (1062, "Duplicate entry '3' for key 'PRIMARY'")
+2021-03-25-17:53:52Start: sucess!
+2021-03-25-17:53:52 userinfoInsertsql£º(1062, "Duplicate entry '4' for key 'PRIMARY'")
+2021-03-25-17:53:52Start: sucess!
+2021-03-25-17:53:53Start: sucess!
+2021-03-25-17:53:57 inseruserdata: (1062, "Duplicate entry '4' for key 'PRIMARY'")
+2021-03-25-17:54:03Start: sucess!
+2021-03-26-17:39:23 userinfoInsertsql£º(1062, "Duplicate entry '1' for key 'PRIMARY'")
+2021-03-26-17:39:23 userinfoInsertsql£º(1062, "Duplicate entry '2' for key 'PRIMARY'")
+2021-03-26-17:39:23 userinfoInsertsql£º(1062, "Duplicate entry '3' for key 'PRIMARY'")
+2021-03-26-17:39:23 userinfoInsertsql£º(1062, "Duplicate entry '4' for key 'PRIMARY'")
+2021-03-26-17:39:28 inseruserdata: (1062, "Duplicate entry '1' for key 'PRIMARY'")
+2021-03-26-17:39:28 inseruserdata: (1062, "Duplicate entry '4' for key 'PRIMARY'")
+2021-03-26-17:39:28 inseruserdata: (1062, "Duplicate entry '2' for key 'PRIMARY'")
+2021-03-26-17:39:30 inseruserdata: (1062, "Duplicate entry '3' for key 'PRIMARY'")
+2021-03-26-17:39:33Start: sucess!
+2021-03-26-17:39:33Start: sucess!
+2021-03-26-17:39:33Start: sucess!
+2021-03-26-17:39:35Start: sucess!
+2021-03-26-17:39:35 userinfoInsertsql£º(1062, "Duplicate entry '1' for key 'PRIMARY'")
+2021-03-26-17:39:41 inseruserdata: (1062, "Duplicate entry '1' for key 'PRIMARY'")
+2021-03-26-17:39:46Start: sucess!
+2021-03-26-17:39:46 userinfoInsertsql£º(1062, "Duplicate entry '2' for key 'PRIMARY'")
+2021-03-26-17:39:52 inseruserdata: (1062, "Duplicate entry '2' for key 'PRIMARY'")
+2021-03-26-17:39:57Start: sucess!
+2021-03-26-17:39:57 userinfoInsertsql£º(1062, "Duplicate entry '3' for key 'PRIMARY'")
+2021-03-26-17:40:06 inseruserdata: (1062, "Duplicate entry '3' for key 'PRIMARY'")
+2021-03-26-17:40:11Start: sucess!
+2021-03-26-17:40:12 userinfoInsertsql£º(1062, "Duplicate entry '4' for key 'PRIMARY'")
+2021-03-26-17:40:17 inseruserdata: (1062, "Duplicate entry '4' for key 'PRIMARY'")
+2021-03-26-17:40:22Start: sucess!
+2021-03-26-17:57:40 userinfoInsertsql£º(1062, "Duplicate entry '1' for key 'PRIMARY'")
+2021-03-26-17:57:40 userinfoInsertsql£º(1062, "Duplicate entry '2' for key 'PRIMARY'")
+2021-03-26-17:57:40 userinfoInsertsql£º(1062, "Duplicate entry '3' for key 'PRIMARY'")
+2021-03-26-17:57:40 userinfoInsertsql£º(1062, "Duplicate entry '4' for key 'PRIMARY'")
+2021-03-26-17:57:46 inseruserdata: (1062, "Duplicate entry '1' for key 'PRIMARY'")
+2021-03-26-17:57:46 inseruserdata: (1062, "Duplicate entry '4' for key 'PRIMARY'")
+2021-03-26-17:57:46 inseruserdata: (1062, "Duplicate entry '2' for key 'PRIMARY'")
+2021-03-26-17:57:46 inseruserdata: (1062, "Duplicate entry '3' for key 'PRIMARY'")
+2021-03-26-17:57:51Start: sucess!
+2021-03-26-17:57:51Start: sucess!
+2021-03-26-17:57:51Start: sucess!
+2021-03-26-17:57:51Start: sucess!
+2021-03-26-17:57:52 userinfoInsertsql£º(1062, "Duplicate entry '1' for key 'PRIMARY'")
+2021-03-26-17:57:57 inseruserdata: (1062, "Duplicate entry '1' for key 'PRIMARY'")
+2021-03-26-17:58:02Start: sucess!
+2021-03-26-17:58:03 userinfoInsertsql£º(1062, "Duplicate entry '2' for key 'PRIMARY'")
+2021-03-26-17:58:08 inseruserdata: (1062, "Duplicate entry '2' for key 'PRIMARY'")
+2021-03-26-17:58:13Start: sucess!
+2021-03-26-17:58:13 userinfoInsertsql£º(1062, "Duplicate entry '3' for key 'PRIMARY'")
+2021-03-26-17:58:19 inseruserdata: (1062, "Duplicate entry '3' for key 'PRIMARY'")
+2021-03-26-17:58:24Start: sucess!
+2021-03-26-17:58:24 userinfoInsertsql£º(1062, "Duplicate entry '4' for key 'PRIMARY'")
+2021-03-26-17:58:29 inseruserdata: (1062, "Duplicate entry '4' for key 'PRIMARY'")
+2021-03-26-17:58:34Start: sucess!
+2021-03-26-18:58:05Start: sucess!
+2021-03-26-18:58:05Start: sucess!
+2021-03-26-18:58:07Start: sucess!
+2021-03-26-18:58:16Start: sucess!
+2021-03-26-18:58:16Start: sucess!
+2021-03-26-18:58:18Start: sucess!
+2021-03-26-18:58:27Start: sucess!
+2021-03-26-18:58:27Start: sucess!
+2021-03-26-18:58:29Start: sucess!
+2021-03-26-18:58:37Start: sucess!
+2021-03-26-18:58:38Start: sucess!
+2021-03-26-18:58:39Start: sucess!
+2021-03-26-18:58:48Start: sucess!
+2021-03-26-18:58:49Start: sucess!
+2021-03-26-18:58:50Start: sucess!
+2021-03-26-18:58:59Start: sucess!
+2021-03-26-18:59:00Start: sucess!
+2021-03-26-18:59:00Start: sucess!
+2021-03-26-18:59:10Start: sucess!
+2021-03-26-18:59:10Start: sucess!
+2021-03-26-18:59:11Start: sucess!
+2021-03-26-18:59:15 get_userdata: 'data'
+Start: 'NoneType' object is not iterable
+2021-03-26-18:59:16 get_userdata: 'data'
+Start: 'NoneType' object is not iterable
+2021-03-26-18:59:22Start: sucess!
+2021-03-26-18:59:26Start: sucess!
+2021-03-26-18:59:29Start: sucess!
+2021-03-26-18:59:33Start: sucess!
+2021-03-26-18:59:37Start: sucess!
+2021-03-26-18:59:40Start: sucess!
+2021-03-26-18:59:44Start: sucess!
+2021-03-26-18:59:47Start: sucess!
+2021-03-26-18:59:50Start: sucess!
+2021-03-26-18:59:55Start: sucess!
+2021-03-26-18:59:58Start: sucess!
+2021-03-26-19:00:01Start: sucess!
+2021-03-26-19:00:06Start: sucess!
+2021-03-26-19:00:09Start: sucess!
+2021-03-26-19:00:12Start: sucess!
+2021-03-26-19:00:17Start: sucess!
+2021-03-26-19:00:19Start: sucess!
+2021-03-26-19:00:25Start: sucess!
+2021-03-26-19:00:27Start: sucess!
+2021-03-26-19:00:30Start: sucess!
+2021-03-26-19:00:36Start: sucess!
+2021-03-26-19:00:38Start: sucess!
+2021-03-26-19:00:41Start: sucess!
+2021-03-26-19:00:46Start: sucess!
+2021-03-26-19:00:49Start: sucess!
+2021-03-26-19:00:51Start: sucess!
+2021-03-26-19:00:57Start: sucess!
+2021-03-26-19:01:00Start: sucess!
+2021-03-26-19:01:02Start: sucess!
+2021-03-26-19:01:08Start: sucess!
+2021-03-26-19:01:10Start: sucess!
+2021-03-26-19:01:13Start: sucess!
+2021-03-26-19:01:18Start: sucess!
+2021-03-26-19:01:21Start: sucess!
+2021-03-26-19:01:24Start: sucess!
+2021-03-26-19:01:29Start: sucess!
+2021-03-26-19:01:33Start: sucess!
+2021-03-26-19:01:35Start: sucess!
+2021-03-26-19:01:40Start: sucess!
+2021-03-26-19:01:40 download_face: [Errno 22] Invalid argument: '../img/***.jpg'
+2021-03-26-19:01:44Start: sucess!
+2021-03-26-19:01:45Start: sucess!
+2021-03-26-19:01:50Start: sucess!
+2021-03-26-19:01:55Start: sucess!
+2021-03-26-19:01:56Start: sucess!
+2021-03-26-19:02:01Start: sucess!
+2021-03-26-19:02:06Start: sucess!
+2021-03-26-19:02:07Start: sucess!
+2021-03-26-19:02:12Start: sucess!
+2021-03-26-19:02:17Start: sucess!
+2021-03-26-19:02:17Start: sucess!
+2021-03-26-19:02:23Start: sucess!
+2021-03-26-19:02:28Start: sucess!
+2021-03-26-19:02:28Start: sucess!
+2021-03-26-19:02:33Start: sucess!
+2021-03-26-19:02:38Start: sucess!
+2021-03-26-19:02:39Start: sucess!
+2021-03-26-19:02:44Start: sucess!
+2021-03-26-19:02:49Start: sucess!
+2021-03-26-19:02:49Start: sucess!
+2021-03-26-19:02:55Start: sucess!
+2021-03-26-19:03:00Start: sucess!
+2021-03-26-19:03:00Start: sucess!
+2021-03-26-19:03:06Start: sucess!
+2021-03-26-19:03:11Start: sucess!
+2021-03-26-19:03:11Start: sucess!
+2021-03-26-19:03:17Start: sucess!
+2021-03-26-19:03:22Start: sucess!
+2021-03-26-19:03:22Start: sucess!
+2021-03-26-19:03:29Start: sucess!
+2021-03-26-19:03:33Start: sucess!
+2021-03-26-19:03:33Start: sucess!
+2021-03-26-19:03:39Start: sucess!
+2021-03-26-19:03:43Start: sucess!
+2021-03-26-19:03:44Start: sucess!
+2021-03-26-19:03:51Start: sucess!
+2021-03-26-19:03:54Start: sucess!
