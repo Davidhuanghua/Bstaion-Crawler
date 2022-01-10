@@ -24,4 +24,4 @@
 
 [利用Python爬取B站千万级数据，并对其进行简单的分析 - 哔哩哔哩](https://www.bilibili.com/read/cv1928650/)
 
-[CPU-bound(计算密集型) 和I/O bound(I/O密集型)_轻锋的专栏-CSDN博客](
+[CPU-bound(计算密集型) 和I/O bound(I/O密集型)_轻锋的专栏-CSDN博客](https://blog.csdn.net/q_l_s/article/details/51538039)
